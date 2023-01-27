@@ -1,10 +1,10 @@
-package com.br.springstart;
+package com.br.solidtests;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringStartApplicationTests {
+class SolidApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,12 +1,12 @@
-package com.br.springstart;
+package com.br.solidtests;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringStartApplication {
+public class SolidApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringStartApplication.class, args);
+		SpringApplication.run(SolidApplication.class, args);
 	}
 }
